@@ -1,2 +1,2 @@
-# -sumantsaxena.github.io
+# sumantsaxena.github.io
 My personal website
